@@ -1,3 +1,15 @@
+# Kittygram
+Учебный проект для Яндекс.Практикум
+### Описание
+Проект **YaMDb** собирает отзывы пользователей на различные произведения
+### Технологии
+- Python 3.7
+- Django 2.2.19
+- SQLite
+- Simple-JWT
+
+### Frontend для Kittygramm:
+https://github.com/KoshelevAleksandr/kittygram_frontend
 ### Как запустить проект:
 
 Клонировать репозиторий и перейти в него в командной строке:
