@@ -19,7 +19,7 @@ git clone git@github.com:KoshelevAleksandr/kittygram_back.git
 ```
 
 ```
-cd kittygram_backend
+cd kittygram_back
 ```
 
 Cоздать и активировать виртуальное окружение:
