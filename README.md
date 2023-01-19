@@ -15,7 +15,7 @@ https://github.com/KoshelevAleksandr/kittygram_frontend
 Клонировать репозиторий и перейти в него в командной строке:
 
 ```
-https://github.com/boreesych/kittygram_backend.git
+git clone git@github.com:KoshelevAleksandr/kittygram_back.git
 ```
 
 ```
